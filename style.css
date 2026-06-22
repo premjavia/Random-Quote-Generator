@@ -1,0 +1,38 @@
+/* Remove default browser spacing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style the whole page */
+body {
+    font-family: sans-serif;
+    background-color: #050303;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    height: 90vh;
+}
+
+/* Style the heading */
+h1 {
+    font-size: 4rem;
+    color: #b7aaaa;
+
+}
+
+#quote{
+    color: beige;
+    margin-bottom: auto;
+    margin-top: 3%;
+}
+
+#btn{
+    color:rgb(9, 8, 7);
+    margin-top: 30%;
+    
+}
