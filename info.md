@@ -3,3 +3,5 @@ DOM -> Document Object Model
 <input type = "text"> -> attributes(extra information in the opening tag)
 
 <div class="Prem"> -> class is an attribute , prem is the value
+
+python3 -m http.server 8000
